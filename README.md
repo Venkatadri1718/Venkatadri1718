@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Venkatadri
+- 👀 I’m interested in Software Engineering and Web Development
+- 🌱 I’m currently learning Python Full Stack Development
+- 👀 I’m looking for an Entry Level Job
+- 📫 How to reach me - mvenky1718@gmail.com
+- 📫 My Linkedin Profile - https://www.linkedin.com/in/venkatadri-majjari-b1113a243
